@@ -603,7 +603,7 @@ progress {
 
 .img-fluid {
   max-width: 100%;
-  height: auto;
+  height: 550px;
 }
 
 .img-thumbnail {
@@ -8248,6 +8248,7 @@ textarea.form-control-lg {
 .text-white-50 {
   --bs-text-opacity: 1;
   color: rgba(255, 255, 255, 0.5) !important;
+  
 }
 
 .text-reset {
